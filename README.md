@@ -14,7 +14,7 @@ This is an implementation of the algorithm for creating the Attended Visual Cont
 
 **Please refer to the following papers**
 
-**Jinjian Wu, Yongxu Liu, Leida Li, and Guangming Shi, "Attended Visual Content Degradation Based Reduced Reference Image Quality Assessment", IEEE Access, 2018. 
+> Jinjian Wu, Yongxu Liu, Leida Li, and Guangming Shi, "Attended Visual Content Degradation Based Reduced Reference Image Quality Assessment", IEEE Access, 2018. 
 
 ======================== **Usage** ==========================
 
