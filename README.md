@@ -12,13 +12,13 @@ Permission to use, copy, or modify this software and its documentation for educa
 
 This is an implementation of the algorithm for creating the Attended Visual Content Degradation based RR-IQA
 
-Please refer to the following papers
+**Please refer to the following papers**
 
-Jinjian Wu, Yongxu Liu, Leida Li, and Guangming Shi, "Attended Visual Content Degradation Based Reduced Reference Image Quality Assessment", IEEE Access, 2018. 
+**Jinjian Wu, Yongxu Liu, Leida Li, and Guangming Shi, "Attended Visual Content Degradation Based Reduced Reference Image Quality Assessment", IEEE Access, 2018. **
 
-======================== Usage ==========================
+======================== **Usage** ==========================
 
-Run 'demo.m'
+**Run <code>demo.m</code>**
 
 Note:
 
