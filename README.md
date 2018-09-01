@@ -24,7 +24,7 @@ Note:
 
 - Please ensure to install GBVS environment properly;
 
-- This code can also create the results of [2], through modifying a little in <code>AVCD.m</code>. Details can be seen in line 70 and line 90.
+- This code can also create the results of [2]~~, through modifying a little in <code>AVCD.m</code>. Details can be seen in line 70 and line 90~~. However, due to some certain reason, the detailed code is not provided here any more. Please feel free to email me if you need.
 
 ======================== **Reference**  ==========================
 
